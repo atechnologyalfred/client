@@ -3,7 +3,7 @@ import About from './pages/About';
 import HomePage from './pages/HomePage';
 import Createpage from './pages/Createpage';
 import NoteDetailPage from './pages/NoteDetailpage';
-import ContactPage from './pages/ContactPage';
+import ContactPage from './components/ContactPage';
 import ContactList from './pages/ContactList';
 
 export const App = () => {
