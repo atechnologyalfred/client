@@ -22,7 +22,7 @@ const Nav = () => {
             <Link to="/contact" className="text-base-content">Contact</Link>
           </li>
             <li>
-            <Link to="/contactlist" className="text-base-content">Contact</Link>
+            <Link to="/contactlist" className="text-base-content">Testimonies</Link>
           </li>
         </ul>
       </div>
