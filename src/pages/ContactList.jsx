@@ -1,7 +1,7 @@
 import React from 'react'
 import { useEffect, useState } from 'react'
 import ShowcontactLists from './ShowContactLists.jsx'
-const contactList = () => {
+const ContactList = () => {
   const [contacts, setContacts] = useState([])
 
   useEffect(() => {
@@ -27,4 +27,4 @@ const contactList = () => {
   )
 }
 
-export default contactList
+export default ContactList
