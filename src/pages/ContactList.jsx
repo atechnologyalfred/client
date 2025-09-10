@@ -1,6 +1,6 @@
 import React from 'react'
 import { useEffect, useState } from 'react'
-import ShowcontactLists from './showContactLists.jsx'
+import ShowcontactLists from './ShowContactLists.jsx'
 const contactList = () => {
   const [contacts, setContacts] = useState([])
 
