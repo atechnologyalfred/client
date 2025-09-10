@@ -42,6 +42,9 @@ const Nav = () => {
             <li>
               <Link to="/contact" className="text-base-content">Contact</Link>
             </li>
+            <li>
+              <Link to="/contactlist" className="text-base-content">Testimonials</Link>
+            </li>
           </ul>
         </div>
       </div>
